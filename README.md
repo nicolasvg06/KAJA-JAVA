@@ -1,6 +1,6 @@
-# 🛒 KAJA - Sistema de Gestión de Productos
+#  KAJA - Sistema de Gestión de Productos
 
-## 📋 Descripción
+##  Descripción
 
 KAJA es una aplicación de consola desarrollada en Java que permite administrar productos mediante operaciones CRUD (Crear, Consultar, Actualizar y Eliminar), utilizando Programación Orientada a Objetos (POO), JDBC y una base de datos MySQL.
 
@@ -8,13 +8,13 @@ Este proyecto fue desarrollado como evidencia para el Servicio Nacional de Apren
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desarrollar una aplicación Java que implemente un módulo CRUD para la gestión de productos, aplicando el patrón DAO y estableciendo conexión con una base de datos MySQL mediante JDBC.
 
 ---
 
-## 🛠 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Java 21
 - JDBC (Java Database Connectivity)
@@ -27,7 +27,7 @@ Desarrollar una aplicación Java que implemente un módulo CRUD para la gestión
 
 ---
 
-## 📂 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 KAJA-JAVA
@@ -55,19 +55,19 @@ KAJA-JAVA
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
-- ✅ Conexión a MySQL mediante JDBC.
-- ✅ Registrar productos.
-- ✅ Listar productos.
-- ✅ Buscar productos por ID.
-- ✅ Actualizar productos.
-- ✅ Eliminar productos.
-- ✅ Menú interactivo en consola.
+-  Conexión a MySQL mediante JDBC.
+-  Registrar productos.
+-  Listar productos.
+-  Buscar productos por ID.
+-  Actualizar productos.
+-  Eliminar productos.
+-  Menú interactivo en consola.
 
 ---
 
-## 🗄 Base de datos
+##  Base de datos
 
 Nombre de la base de datos:
 
@@ -83,7 +83,7 @@ productos
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 1. Iniciar Apache y MySQL desde XAMPP.
 2. Importar el archivo `kaja.sql` en MySQL.
@@ -93,7 +93,7 @@ productos
 
 ---
 
-## 📸 Evidencias
+##  Evidencias
 
 Durante la ejecución del proyecto se pueden realizar las siguientes operaciones:
 
@@ -105,13 +105,13 @@ Durante la ejecución del proyecto se pueden realizar las siguientes operaciones
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 **Nicolás Villalba**
 
 ---
 
-## 🎓 Evidencia SENA
+##  Evidencia SENA
 
 **Programa:** Análisis y Desarrollo de Software (ADSO)
 
@@ -121,6 +121,6 @@ Durante la ejecución del proyecto se pueden realizar las siguientes operaciones
 
 ---
 
-## 📄 Licencia
+##  Licencia
 
 Proyecto desarrollado con fines académicos para el SENA.
